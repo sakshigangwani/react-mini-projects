@@ -14,3 +14,9 @@ Project 2 - Todo List
 
 ![image](https://github.com/user-attachments/assets/a6922c7b-52fc-47c2-b321-f5a3e18f045a)
 ![image](https://github.com/user-attachments/assets/104d329e-4a70-480f-abd9-4a11c55fe36c)
+
+Project 3 - Generate an Excuse
+
+![image](https://github.com/user-attachments/assets/a55b75cd-a655-46bd-8ddb-2651a48a1b19)
+![image](https://github.com/user-attachments/assets/dbdba875-2286-47fe-baaf-a10ccac39246)
+![image](https://github.com/user-attachments/assets/6c7a3f97-d375-475b-87f8-47b7fc4e4e22)
